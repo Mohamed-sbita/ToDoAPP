@@ -26,7 +26,7 @@ A simple Todo application built with React Native.
    git clone  https://github.com/Mohamed-sbita/ToDoAPP
 2. Navigate to the project directory:
    ````bash
-   cd TodoRaactnative
+   cd ToDoAPP
 3. Install the dependencies:
    ````bash
     npm install
